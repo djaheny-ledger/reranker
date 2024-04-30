@@ -1,2 +1,6 @@
 .env
 vevrerank/
+cleaned_data.jsonl
+data.jsonl
+trimmed_data.jsonl
+synthetic.jsonl
