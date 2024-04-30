@@ -30,7 +30,7 @@ def process_file(input_filename, output_filename):
                 print(f"Skipping line {line_number}: Unable to parse JSON. Error: {e}")
 
 # Replace 'input.jsonl' with the path to your input file and 'output.jsonl' for the output file name
-input_filename = '/home/danledger/reranker/data_raw.jsonl'
+input_filename = '/home/danledger/reranker/data.jsonl'
 output_filename = 'cleaned_data.jsonl'
 process_file(input_filename, output_filename)
 

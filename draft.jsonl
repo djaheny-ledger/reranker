@@ -1,86 +1,10 @@
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
-{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo", "bar", "foo", "bar", "foo"]}
+{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo"]}
+{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo"]}
+{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo"]}
+{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo"]}
+{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo"]}
+{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo"]}
+{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo"]}
+{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo"]}
+{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo"]}
+{"query": "foo", "relevant_passages": ["bar"], "hard_negatives": ["foo"]}
