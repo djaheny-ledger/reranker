@@ -17,13 +17,17 @@ llama = 'llama3-8b-8192'
 # Function to call your language model API for generating query variants
 def generate_query_variants(query):
     instructions = (
-        f"Generate 5 variants of this query: '{query}'\n\n"
+        f"You're an expert writer. Using your knowledge of cryptocurrency, blockchains and Ledger products, generate 8 variants of this query: '{query}'\n\n"
         "Your response should ALWAYS be in .json format as follows and without anything else:\n\n"
         '{{"1":"<the first variant>",\n'
         ' "2":"<the second variant>",\n'
         ' "3":"<the third variant>",\n'
         ' "4":"<the fourth variant>",\n'
-        ' "5":"<the fifth variant>"}}\n'
+        ' "5":"<the fifth variant>",\n'
+        ' "6":"<the sixth variant>",\n'
+        ' "7":"<the seventh variant>",\n'
+        ' "8":"<the eighth variant>"}}\n'
+        "You must be creative and capture the range of potential customer inquiries in your variants."
     )
     res = groq_client.chat.completions.create(
         temperature=0.4,
@@ -44,7 +48,7 @@ def generate_query_variants(query):
 
     try:
         response_content = json.loads(response_text)
-        return [response_content[str(i)] for i in range(1, 6)]
+        return [response_content[str(i)] for i in range(1, 9)]
     except json.JSONDecodeError as e:
         print("Failed to parse JSON:", e)
         return []
